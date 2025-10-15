@@ -1,9 +1,3 @@
-Got it 👍 — here’s your **single continuous README.md text block**, perfectly formatted for GitHub (no extra code fences breaking sections, everything neatly segregated with headings, lists, and emojis).
-
-You can **copy-paste this directly** into your GitHub README file.
-
----
-
 # 🚶‍♂️ Crowd Detection and Tracking in Dense Scenes
 
 ![Python](https://img.shields.io/badge/Python-3.8+-blue.svg)
