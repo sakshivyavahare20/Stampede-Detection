@@ -1,0 +1,10 @@
+fastapi
+uvicorn[standard]
+ultralytics
+deep-sort-realtime
+opencv-python
+matplotlib
+scipy
+python-multipart
+
+# uvicorn main:app --reload 
